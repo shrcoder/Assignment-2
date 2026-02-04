@@ -45,3 +45,23 @@ header{
                 #FB09B4 51%,
                 #9100F8 100%);
 }
+.about{
+    padding: 50px 200px;
+}
+.about-podcast{
+    max-width: 1200px;
+    height: 220px;
+    align-items: center;
+    border-bottom: 0.05px solid white;
+}
+.about-podcast h3{
+    text-align: center;
+}
+.about-podcast p{
+    text-align: center;
+}
+.p-1{
+    margin-bottom: 80px;
+    margin-top: 79px;
+
+}
